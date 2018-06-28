@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Controller","h":"","u":""},{"l":"DataModel","h":"","u":""},{"l":"Latitude","h":"","u":""},{"l":"Longitude","h":"","u":""},{"l":"Main","h":"","u":""},{"l":"ProjErr","h":"","u":""},{"l":"Quake","h":"","u":""},{"l":"Spider","h":"","u":""}]
