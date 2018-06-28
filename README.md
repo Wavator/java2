@@ -1,2 +1,4 @@
 # java2
-java2_course_project
+## Course Project of java_2
+#### fake rade me
+#### real one is in the project
